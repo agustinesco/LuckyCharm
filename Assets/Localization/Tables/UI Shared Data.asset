@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: fdc266d68eb2a47cd9668648f300498b
+  m_Entries:
+  - m_Id: 141296656384
+    m_Key: settings_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141309239296
+    m_Key: language_label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141309239297
+    m_Key: history_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141309239298
+    m_Key: close_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141313433600
+    m_Key: share_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141313433601
+    m_Key: select_language_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141313433602
+    m_Key: confirm_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141313433603
+    m_Key: english
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141313433604
+    m_Key: spanish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141313433605
+    m_Key: tap_cookie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141313433606
+    m_Key: swipe_to_unroll
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6421743438745305112
+  references:
+    version: 2
+    RefIds:
+    - rid: 6421743438745305112
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1769797064123

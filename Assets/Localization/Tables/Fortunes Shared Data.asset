@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Fortunes Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Fortunes
+  m_TableCollectionNameGuidString: d7cca9414b9a5460396c63b929ef719d
+  m_Entries:
+  - m_Id: 128966656
+    m_Key: fortune_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966657
+    m_Key: fortune_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966658
+    m_Key: fortune_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966659
+    m_Key: fortune_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966660
+    m_Key: fortune_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966661
+    m_Key: fortune_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966662
+    m_Key: fortune_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966663
+    m_Key: fortune_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966664
+    m_Key: fortune_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966665
+    m_Key: fortune_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966666
+    m_Key: fortune_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966667
+    m_Key: fortune_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966668
+    m_Key: fortune_13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966669
+    m_Key: fortune_14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966670
+    m_Key: fortune_15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966671
+    m_Key: fortune_16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966672
+    m_Key: fortune_17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966673
+    m_Key: fortune_18
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966674
+    m_Key: fortune_19
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966675
+    m_Key: fortune_20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966676
+    m_Key: fortune_21
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966677
+    m_Key: fortune_22
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966678
+    m_Key: fortune_23
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966679
+    m_Key: fortune_24
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966680
+    m_Key: fortune_25
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966681
+    m_Key: fortune_26
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966682
+    m_Key: fortune_27
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966683
+    m_Key: fortune_28
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966684
+    m_Key: fortune_29
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966685
+    m_Key: fortune_30
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966686
+    m_Key: fortune_31
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966687
+    m_Key: fortune_32
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966688
+    m_Key: fortune_33
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966689
+    m_Key: fortune_34
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966690
+    m_Key: fortune_35
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966691
+    m_Key: fortune_36
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966692
+    m_Key: fortune_37
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966693
+    m_Key: fortune_38
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966694
+    m_Key: fortune_39
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966695
+    m_Key: fortune_40
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966696
+    m_Key: fortune_41
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966697
+    m_Key: fortune_42
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966698
+    m_Key: fortune_43
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966699
+    m_Key: fortune_44
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966700
+    m_Key: fortune_45
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966701
+    m_Key: fortune_46
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966702
+    m_Key: fortune_47
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966703
+    m_Key: fortune_48
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966704
+    m_Key: fortune_49
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966705
+    m_Key: fortune_50
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6421743438745305118
+  references:
+    version: 2
+    RefIds:
+    - rid: 6421743438745305118
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1769797097904

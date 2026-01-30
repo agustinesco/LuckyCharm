@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Fortunes_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: d7cca9414b9a5460396c63b929ef719d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 128966656
+    m_Localized: The best time to plant a tree was 20 years ago. The second best
+      time is now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966657
+    m_Localized: Your kindness is a gift that keeps giving.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966658
+    m_Localized: Courage is not the absence of fear, but action in spite of it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966659
+    m_Localized: Today's struggle is tomorrow's strength.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966660
+    m_Localized: A smile is a curve that sets everything straight.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966661
+    m_Localized: The journey of a thousand miles begins with a single step.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966662
+    m_Localized: Be the reason someone believes in the goodness of people.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966663
+    m_Localized: What you seek is seeking you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966664
+    m_Localized: Stars can't shine without darkness.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966665
+    m_Localized: Your potential is endless. Go do what you were created to do.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966666
+    m_Localized: The only way to do great work is to love what you do.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966667
+    m_Localized: Small acts of kindness create ripples of change.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966668
+    m_Localized: You are braver than you believe, stronger than you seem.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966669
+    m_Localized: Every expert was once a beginner.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966670
+    m_Localized: Life is short. Smile while you still have teeth.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966671
+    m_Localized: Believe you can and you're halfway there.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966672
+    m_Localized: In a world where you can be anything, be kind.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966673
+    m_Localized: Fortune favors the bold.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966674
+    m_Localized: Growth is painful. Change is painful. But nothing is as painful
+      as staying stuck.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966675
+    m_Localized: Life is too important to be taken seriously.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966676
+    m_Localized: Your only limit is your mind.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966677
+    m_Localized: Happiness is found when you stop comparing yourself to others.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966678
+    m_Localized: The universe is conspiring in your favor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966679
+    m_Localized: Be fearless in the pursuit of what sets your soul on fire.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966680
+    m_Localized: You are allowed to be both a masterpiece and a work in progress.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966681
+    m_Localized: The sun will rise and we will try again.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966682
+    m_Localized: Your energy introduces you before you even speak.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966683
+    m_Localized: Do something today that your future self will thank you for.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966684
+    m_Localized: It's okay to not be okay, as long as you don't stay that way.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966685
+    m_Localized: Throw kindness around like confetti.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966686
+    m_Localized: The best view comes after the hardest climb.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966687
+    m_Localized: You don't have to be perfect to be amazing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966688
+    m_Localized: Today is a good day to have a good day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966689
+    m_Localized: Your vibe attracts your tribe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966690
+    m_Localized: Be a voice, not an echo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966691
+    m_Localized: Difficult roads often lead to beautiful destinations.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966692
+    m_Localized: You are capable of more than you know.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966693
+    m_Localized: Life begins at the end of your comfort zone.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966694
+    m_Localized: The comeback is always stronger than the setback.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966695
+    m_Localized: Make today so awesome that yesterday gets jealous.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966696
+    m_Localized: You are never too old to set another goal or dream a new dream.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966697
+    m_Localized: Kindness is free. Sprinkle it everywhere.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966698
+    m_Localized: What lies behind us and what lies before us are tiny matters compared
+      to what lies within us.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966699
+    m_Localized: Take the risk or lose the chance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966700
+    m_Localized: Bloom where you are planted.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966701
+    m_Localized: Good things come to those who hustle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966702
+    m_Localized: Let your faith be bigger than your fear.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966703
+    m_Localized: The only impossible journey is the one you never begin.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966704
+    m_Localized: You are the author of your own story.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966705
+    m_Localized: Dream big. Work hard. Stay humble.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

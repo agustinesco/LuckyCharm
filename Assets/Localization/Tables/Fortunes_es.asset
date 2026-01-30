@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Fortunes_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: d7cca9414b9a5460396c63b929ef719d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 128966656
+    m_Localized: "El mejor momento para plantar un \xE1rbol fue hace 20 a\xF1os.
+      El segundo mejor momento es ahora."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966657
+    m_Localized: Tu amabilidad es un regalo que sigue dando.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966658
+    m_Localized: "El coraje no es la ausencia de miedo, sino actuar a pesar de \xE9l."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966659
+    m_Localized: "La lucha de hoy es la fuerza de ma\xF1ana."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966660
+    m_Localized: Una sonrisa es una curva que lo endereza todo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966661
+    m_Localized: El viaje de mil millas comienza con un solo paso.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966662
+    m_Localized: "S\xE9 la raz\xF3n por la que alguien cree en la bondad de las personas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966663
+    m_Localized: "Lo que buscas te est\xE1 buscando."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966664
+    m_Localized: Las estrellas no pueden brillar sin oscuridad.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966665
+    m_Localized: Tu potencial es infinito. Ve y haz aquello para lo que fuiste creado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966666
+    m_Localized: "La \xFAnica forma de hacer un gran trabajo es amar lo que haces."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966667
+    m_Localized: "Peque\xF1os actos de bondad crean ondas de cambio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966668
+    m_Localized: "Eres m\xE1s valiente de lo que crees, m\xE1s fuerte de lo que pareces."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966669
+    m_Localized: Todo experto fue una vez un principiante.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966670
+    m_Localized: "La vida es corta. Sonr\xEDe mientras a\xFAn tengas dientes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966671
+    m_Localized: "Cree que puedes y ya est\xE1s a mitad de camino."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966672
+    m_Localized: "En un mundo donde puedes ser cualquier cosa, s\xE9 amable."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966673
+    m_Localized: La fortuna favorece a los audaces.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966674
+    m_Localized: Crecer es doloroso. Cambiar es doloroso. Pero nada es tan doloroso
+      como quedarse estancado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966675
+    m_Localized: "La vida es demasiado importante para tom\xE1rsela en serio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966676
+    m_Localized: "Tu \xFAnico l\xEDmite es tu mente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966677
+    m_Localized: "La felicidad se encuentra cuando dejas de compararte con los dem\xE1s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966678
+    m_Localized: "El universo est\xE1 conspirando a tu favor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966679
+    m_Localized: "S\xE9 intr\xE9pido en la b\xFAsqueda de lo que enciende tu alma."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966680
+    m_Localized: Tienes permiso de ser tanto una obra maestra como un trabajo en
+      progreso.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966681
+    m_Localized: "El sol saldr\xE1 y lo intentaremos de nuevo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966682
+    m_Localized: "Tu energ\xEDa te presenta antes de que hables."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966683
+    m_Localized: "Haz algo hoy por lo que tu yo del futuro te agradecer\xE1."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966684
+    m_Localized: "Est\xE1 bien no estar bien, mientras no te quedes as\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966685
+    m_Localized: Esparce amabilidad como confeti.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966686
+    m_Localized: "La mejor vista viene despu\xE9s de la subida m\xE1s dif\xEDcil."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966687
+    m_Localized: "No tienes que ser perfecto para ser incre\xEDble."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966688
+    m_Localized: "Hoy es un buen d\xEDa para tener un buen d\xEDa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966689
+    m_Localized: Tu vibra atrae a tu tribu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966690
+    m_Localized: "S\xE9 una voz, no un eco."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966691
+    m_Localized: "Los caminos dif\xEDciles a menudo llevan a destinos hermosos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966692
+    m_Localized: "Eres capaz de m\xE1s de lo que sabes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966693
+    m_Localized: La vida comienza al final de tu zona de confort.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966694
+    m_Localized: "El regreso siempre es m\xE1s fuerte que el retroceso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966695
+    m_Localized: "Haz que hoy sea tan incre\xEDble que el ayer tenga envidia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966696
+    m_Localized: "Nunca eres demasiado viejo para fijarte otra meta o so\xF1ar un
+      nuevo sue\xF1o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966697
+    m_Localized: "La amabilidad es gratis. Esp\xE1rcela por todas partes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966698
+    m_Localized: "Lo que est\xE1 detr\xE1s y lo que est\xE1 delante de nosotros son
+      peque\xF1eces comparado con lo que est\xE1 dentro de nosotros."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966699
+    m_Localized: Toma el riesgo o pierde la oportunidad.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966700
+    m_Localized: "Florece donde est\xE9s plantado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966701
+    m_Localized: Las cosas buenas llegan a quienes se esfuerzan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966702
+    m_Localized: "Deja que tu fe sea m\xE1s grande que tu miedo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966703
+    m_Localized: "El \xFAnico viaje imposible es el que nunca comienzas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966704
+    m_Localized: Eres el autor de tu propia historia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128966705
+    m_Localized: "Sue\xF1a en grande. Trabaja duro. Mantente humilde."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

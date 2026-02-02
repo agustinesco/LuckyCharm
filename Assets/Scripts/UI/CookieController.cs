@@ -16,6 +16,7 @@ namespace LuckyCharm.UI
         [SerializeField] private ParticleSystem crackParticles;
         [SerializeField] private GameObject cookieLeftHalf;
         [SerializeField] private GameObject cookieRightHalf;
+        [SerializeField] private Image cookieGlow;
 
         [Header("Animation")]
         [SerializeField] private float shakeDuration = 0.1f;
@@ -23,6 +24,21 @@ namespace LuckyCharm.UI
 
         private Vector3 _originalPosition;
         private bool _isAnimating = false;
+
+        private void Awake()
+        {
+            // Auto-find glow if not assigned
+            if (cookieGlow == null)
+            {
+                Transform glowTransform = transform.Find("CookieGlow");
+                if (glowTransform != null)
+                {
+                    cookieGlow = glowTransform.GetComponent<Image>();
+                    // Ensure glow renders behind cookie
+                    glowTransform.SetAsFirstSibling();
+                }
+            }
+        }
 
         private void Start()
         {
@@ -117,6 +133,12 @@ namespace LuckyCharm.UI
                 cookieImage.gameObject.SetActive(false);
             }
 
+            // Hide glow when breaking
+            if (cookieGlow != null)
+            {
+                cookieGlow.gameObject.SetActive(false);
+            }
+
             // Animate halves flying apart
             if (cookieLeftHalf != null && cookieRightHalf != null)
             {
@@ -183,6 +205,12 @@ namespace LuckyCharm.UI
             {
                 cookieImage.sprite = crackStageSprites[0];
                 cookieImage.gameObject.SetActive(true);
+            }
+
+            // Show/hide dark gradient with cookie
+            if (cookieGlow != null)
+            {
+                cookieGlow.gameObject.SetActive(showCookie);
             }
 
             if (cookieLeftHalf != null) cookieLeftHalf.SetActive(false);

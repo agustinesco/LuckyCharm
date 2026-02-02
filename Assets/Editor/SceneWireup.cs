@@ -233,15 +233,33 @@ namespace LuckyCharm.Editor
             var image = background.GetComponent<Image>();
             if (image == null) return;
 
-            // Load and set background sprite
-            var bgSprite = AssetDatabase.LoadAssetAtPath<Sprite>("Assets/Sprites/background.png");
-            if (bgSprite != null)
+            // Add or get BackgroundController component
+            var controller = background.GetComponent<BackgroundController>();
+            if (controller == null)
             {
-                image.sprite = bgSprite;
+                controller = background.gameObject.AddComponent<BackgroundController>();
+            }
+
+            var so = new SerializedObject(controller);
+
+            // Load and set background sprites for timer states
+            var timerActiveSprite = AssetDatabase.LoadAssetAtPath<Sprite>("Assets/Sprites/Backgrounds/kepokepo_on.PNG");
+            var cookieReadySprite = AssetDatabase.LoadAssetAtPath<Sprite>("Assets/Sprites/Backgrounds/kepokepo_off.PNG");
+
+            so.FindProperty("timerActiveSprite").objectReferenceValue = timerActiveSprite;
+            so.FindProperty("cookieReadySprite").objectReferenceValue = cookieReadySprite;
+            so.FindProperty("backgroundImage").objectReferenceValue = image;
+
+            so.ApplyModifiedProperties();
+
+            // Set initial sprite (kepokepo_off as default)
+            if (cookieReadySprite != null)
+            {
+                image.sprite = cookieReadySprite;
                 EditorUtility.SetDirty(image);
             }
 
-            UnityEngine.Debug.Log("Background wired up.");
+            UnityEngine.Debug.Log("Background wired up with BackgroundController.");
         }
 
         private static void AssignUISprites(GameObject canvas)
